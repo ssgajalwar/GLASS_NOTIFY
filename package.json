@@ -1,0 +1,16 @@
+{
+  "name": "glass_notify",
+  "version": "1.0.0",
+  "description": "to create a beautiful glass effect notifications",
+  "main": "glass_notify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notificate",
+    "js",
+    "notify"
+  ],
+  "author": "shreenath gajalwar",
+  "license": "ISC"
+}

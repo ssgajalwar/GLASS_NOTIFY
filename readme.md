@@ -3,12 +3,12 @@
 - Cleane UI notifications just one call away
 
 - Function Requirement
-- Message Text
-- ICON
+1) Message Text
+2) ICON
 
-- Addtional
-- text color
-- background color
+- Addtional Customization
+4) text color
+5) background color   
 
 
 -  ***glass_notify("Login Successful","&#10003;","green")***
